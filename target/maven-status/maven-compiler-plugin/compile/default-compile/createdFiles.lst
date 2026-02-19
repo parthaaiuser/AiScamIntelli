@@ -1,0 +1,13 @@
+com\honeypot\service\AgentService.class
+com\honeypot\dto\ApiResponse$EngagementMetrics$EngagementMetricsBuilder.class
+com\honeypot\dto\ApiResponse$ExtractedIntelligence$ExtractedIntelligenceBuilder.class
+com\honeypot\dto\ApiResponse$ApiResponseBuilder.class
+com\honeypot\dto\ApiResponse$ExtractedIntelligence.class
+com\honeypot\controller\HoneypotController.class
+com\honeypot\service\GuviCallbackService.class
+com\honeypot\dto\IncomingRequest.class
+com\honeypot\dto\ApiResponse$EngagementMetrics.class
+com\honeypot\dto\IncomingRequest$Message.class
+com\honeypot\dto\ApiResponse.class
+com\honeypot\dto\IncomingRequest$Metadata.class
+com\honeypot\HoneypotApplication.class
